@@ -1,0 +1,62 @@
+contact:
+  name: Jordan Hale
+  headline: Senior Site Reliability Engineer | Linux fleets & config management
+  location: Nashville, TN
+  phone: "555-0100"
+  email: jordan.hale@example.com
+  links:
+    - github.com/example-jordan
+
+target:
+  company: Acme Cloud
+  role: Senior Site Reliability Engineer
+  job_id: EXAMPLE-000
+  track: HPC South, senior
+
+story_ids_used:
+  - S-000
+unknowns:
+  - Kubernetes production experience (not in bank — omitted)
+
+summary: |
+  Senior SRE with a decade operating Linux production fleets, on-call
+  ownership, and config-as-source-of-truth. Cut a class of repeat
+  drift outages about 80% by enforcing desired-state config instead of
+  hand-edits. Python and Bash for production tooling. Open to Austin hybrid.
+
+skills:
+  - label: "Production Linux"
+    items: "RHEL/Debian fleets, on-call, incident command, postmortems"
+  - label: "Change & config"
+    items: "desired-state config, git as source of truth, change control"
+  - label: "Automation"
+    items: "Python, Bash, observability (logs/metrics/paging)"
+
+experience:
+  - company: ExampleCo
+    title: Site Reliability Engineer
+    dates: 2014–2018
+    location: Remote
+    bullets:
+      - Reduced repeat config-drift outages ~80% by enforcing desired-state config on the Linux fleet instead of hand-edits.
+      - Owned paging and postmortems for a 24x7 Linux service; wrote the runbooks the next on-call actually used.
+
+education:
+  - B.S. Computer Science, State University (example)
+
+extra_sections: []
+
+cover_letter:
+  greeting: Acme Cloud hiring team
+  paragraphs:
+    - |
+      I'm applying for the Senior SRE role. I operate Linux production
+      systems and treat config drift as an incident class, not a mess to
+      live with — details are in the resume (desired-state config, ~80%
+      drop in that class of outage).
+    - |
+      I'm in Nashville and open to Austin hybrid, which matches how I
+      would use a South/senior track. I do not claim production Kubernetes;
+      I will not pretend it.
+    - |
+      Thank you for your time.

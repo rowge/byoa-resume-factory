@@ -1,0 +1,48 @@
+# From CONTEXT + STORY-BANK only. Blank or UNKNOWN — do not guess.
+
+contact:
+  name: ""
+  headline: ""
+  location: ""
+  phone: ""
+  email: ""
+  links: []
+
+target:
+  company: ""
+  role: ""
+  job_id: ""
+  track: ""
+
+story_ids_used: []
+unknowns: []
+
+summary: |
+  One short paragraph. Numbers only if they are in the story bank.
+
+skills:
+  - label: ""
+    items: ""
+
+experience:
+  - company: ""
+    title: ""
+    dates: ""
+    location: ""
+    bullets:
+      - ""
+
+education:
+  - ""
+
+extra_sections: []
+  # - heading: PROJECTS
+  #   bullets: ["..."]
+
+cover_letter:
+  greeting: "Hiring Manager"
+  paragraphs:
+    - |
+      Paragraph one.
+    - |
+      Paragraph two.

@@ -1,0 +1,17 @@
+BYOA Resume Factory — personal-use license
+
+Copyright (c) 2026 Ben Martin
+
+You may:
+- Use this factory for your own job search, including future searches.
+- Copy and modify the files for your own use.
+- Run it with any agent (Grok, Claude, Cursor, Codex, etc.).
+
+You may not:
+- Resell, republish, or give away this kit (modified or not) as a product.
+- Use it to run a resume-writing service for paying customers.
+- Claim you created the factory.
+
+No warranty. You are responsible for every word on a resume — especially
+numbers. If you cannot defend it in an interview, it does not belong on
+the page.
